@@ -167,6 +167,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scipy 
 jupyter
 openpyxl
 adjustText
